@@ -1,0 +1,23 @@
+.products{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin: 5px;
+}
+.names{
+    color: blue;
+    font-weight: 500;
+}
+.details{
+    margin-left: 20px;
+}
+.buttons{
+    background-color: goldenrod;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 200px;
+    height: 35px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
